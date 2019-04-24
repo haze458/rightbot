@@ -1,8 +1,11 @@
 {
-"name":"Right",
-"version":"1.0",
-"description":"responds to wrongbot",
-"main":"bot.js",
-"author":"Ethan",
-"dependencies":{}
+  "name": "Right",
+  "version": "1.0",
+  "description": "responds to wrongbot",
+  "main": "bot.js",
+  "author": "Ethan",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
 }
