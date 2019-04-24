@@ -1,0 +1,8 @@
+{
+"name":"Right",
+"version":"1.0",
+"description":"responds to wrongbot",
+"main":"bot.js",
+"author":"Ethan",
+"dependencies":{}
+}
